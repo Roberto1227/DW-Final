@@ -249,11 +249,11 @@ Este es un proyecto educativo. Las contribuciones son bienvenidas.
 
 ## 👥 Autores
 
-Roberto Carlos Chavez Camoos
+-Roberto Carlos Chavez Campos
 
-Edwin Josue Parada Campos
+-Edwin Josue Parada Campos
 
-Yader Enmanuel Romero Bonilla
+-Yader Enmanuel Romero Bonilla
 
 ---
 
